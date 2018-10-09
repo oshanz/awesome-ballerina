@@ -1,5 +1,5 @@
 
-<img src="https://github.com/oshanz/awesome-ballerina/raw/master/ballerina-tagline-grey.png" align="right" height=300>
+<img src="https://github.com/oshanz/awesome-ballerina/raw/master/ballerina-tagline-grey.png" align="right" width="300">
 
 # Awesome Ballerina
 
