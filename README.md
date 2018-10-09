@@ -3,7 +3,7 @@
 
 # Awesome Ballerina
 
-#### Thanks to all [contributors](https://github.com/markets/awesome-ballerina/graphs/contributors). Sharing, suggestions and contributions are always welcome!
+#### Thanks to all [contributors](https://github.com/oshanz/awesome-ballerina/graphs/contributors). Sharing, suggestions and contributions are always welcome!
 
 ### Table of contents
 * [Awesome Ballerina](#awesome-ballerina)
