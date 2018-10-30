@@ -1,7 +1,8 @@
 
 <img src="https://github.com/oshanz/awesome-ballerina/raw/master/ballerina-tagline-grey.png" align="right" width="300">
 
-# Awesome Ballerina
+# Awesome Ballerina [![Awesome](https://github.com/sindresorhus/awesome/blob/d2005375894e77d69827b0e3c17073bbf6f062d7/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 #### Thanks to all [contributors](https://github.com/oshanz/awesome-ballerina/graphs/contributors). Sharing, suggestions and contributions are always welcome!
 
