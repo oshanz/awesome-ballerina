@@ -20,5 +20,6 @@ and assemble them in powerful ways.
 
 ## Resources
 
+* [Community-sourced Ballerina exercises](https://exercism.io/tracks/ballerina)
 * [Ballerina Demo](https://github.com/ballerina-guides/ballerina-demo) - Standard Ballerina Demo
 * [Ballerina Overview](https://docs.google.com/presentation/d/1yuixfusHrICWn6nxRobDEMjuWaHvn3qMJMzQnjNIkMk/edit?usp=sharing) - Ballerina Overview and Demo
